@@ -6,7 +6,7 @@
 #
 
 library(shiny)
-library("shinyURL")
+
 load("data_for_ui.RData") 
 shinyUI(  
   navbarPage("Exploratory Analysis MOT Data UK 2013", id="navbarid",
