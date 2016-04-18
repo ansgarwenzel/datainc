@@ -1,0 +1,9 @@
+name: test_datainc
+account: awenzel
+server: shinyapps.io
+appId: 95356
+bundleId: 423252
+url: https://awenzel.shinyapps.io/test_datainc/
+when: 1460978086.37618
+asMultiple: FALSE
+asStatic: FALSE
